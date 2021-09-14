@@ -1,4 +1,4 @@
-# Fundamentos-do-NodeJS
+# Rocketseat - Fundamentos-do-NodeJS
 
 
 ### <p align="left">Ignite - Trilha NodeJS - Fundamentos do NodeJS</p>
